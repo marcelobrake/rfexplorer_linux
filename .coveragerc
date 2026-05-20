@@ -1,0 +1,14 @@
+[run]
+branch = True
+source =
+    rfexplorer_linux
+omit =
+    rfexplorer_linux/presentation/*
+    */vendor/*
+    */tests/*
+
+[report]
+show_missing = True
+skip_covered = False
+exclude_lines =
+    if __name__ == .__main__.:

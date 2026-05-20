@@ -4,6 +4,8 @@ __pycache__/
 *.so
 *.o
 *.log
+.coverage
+.venv/
 vendor/
 
 # Artefatos locais de debug e experimentos anteriores
