@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=RF Explorer Linux Viewer
+Comment=Visualizador Linux nativo para RF Explorer
+Exec=run_rfexplorer_linux_viewer.sh
+Icon=applications-science
+Terminal=false
+Categories=Science;Electronics;
+Keywords=rf explorer;spectrum;analyzer;radio;
+StartupNotify=true

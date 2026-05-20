@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+*.so
+*.o
+*.log
+vendor/
+
+# Artefatos locais de debug e experimentos anteriores
+realbin/
+stty-real
+bwrap-rfetouch.sh
+rfexplorer_baud_shim.c
+rfexplorer_baud_shim.so
+rfexplorer_serial_proxy.py
+stty-wrapper.sh
